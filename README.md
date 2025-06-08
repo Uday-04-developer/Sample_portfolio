@@ -7,6 +7,6 @@ The site features:
 - Subtle animations
 - A timeline of my work
 
-You can view the live website [here](https://cerulean-faun-9b6690.netlify.app/).
+You can view the live website [here](https://super-croissant-497fac.netlify.app/).
 
 Feel free to explore the code and provide feedback! Check out the GitHub repository [here](https://github.com/Uday-04-developer/Sample_portfolio).
